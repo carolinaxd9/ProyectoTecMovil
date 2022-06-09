@@ -10,6 +10,6 @@
         android:title="Activity"
         android:icon="@mipmap/ic_activity" />
     <item android:id="@+id/menu_profile"
-        android:title="Profile"
+        android:title="Profilee"
         android:icon="@mipmap/ic_profile" />
 </menu>
