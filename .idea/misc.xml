@@ -3,10 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Carolina/AndroidStudioProjects/ProyectoTecMovil/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.19" />
-        <entry key="..\:/Users/Carolina/AndroidStudioProjects/ProyectoTecMovil/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19" />
         <entry key="..\:/Users/Carolina/AndroidStudioProjects/ProyectoTecMovil/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/Carolina/AndroidStudioProjects/ProyectoTecMovil/app/src/main/res/menu/main_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
